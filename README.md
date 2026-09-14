@@ -7,11 +7,11 @@
 
 | Campo | Exemplo |
 |---|---|
-| Aluno(a) / Grupo | João da Silva — Grupo Exemplo |
+| Aluno(a) / Grupo | Maria Eduarda Silva |
 | Turma | Defesa Cibernética — 2026 |
 | Professor | Frank Philson |
 | Data | 14/09/2026 |
-| Rede do laboratório | `10.20.30.0/24` |
+| Rede do laboratório | `10.110.102.0/24` |
 
 ## Objetivo
 
@@ -23,10 +23,10 @@ Implementar e documentar um laboratório de **Network Operations Center (NOC)** 
 
 | Hostname | IP | Função |
 |---|---:|---|
-| `ZABBIX01` | `10.20.30.10` | Zabbix Server + MariaDB + Frontend |
-| `GRAFANA01` | `10.20.30.20` | Grafana |
-| `SRV-LINUX01` | `10.20.30.30` | Servidor monitorado |
-| Gateway | `10.20.30.1` | Saída da rede do laboratório |
+| `ZABBIX01` | `10.110.102.10` | Zabbix Server + MariaDB + Frontend |
+| `GRAFANA01` | `10.110.102.20` | Grafana |
+| `SRV-LINUX01` | `10.110.102.40` | Servidor monitorado |
+| Gateway | `10.110.102.1` | Saída da rede do laboratório |
 
 > As imagens abaixo são **ilustrações didáticas**. O aluno deve substituir pelas evidências reais do próprio laboratório.
 
