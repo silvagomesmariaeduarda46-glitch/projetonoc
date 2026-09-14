@@ -69,7 +69,7 @@ Foi escolhida a rede privada `10.20.30.0/24`, evitando sobreposição com outras
 - Tabela de IPs e hostnames
 - Justificativa da faixa escolhida
 
-![Fase 01 — Planejamento e endereçamento](imagens/fase01-planejamento.png)
+![Fase 01 — Planejamento e endereçamento](imagens2/endereçamentorede.jpg)
 
 ---
 
