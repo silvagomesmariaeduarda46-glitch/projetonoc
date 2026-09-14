@@ -114,7 +114,10 @@ Os três servidores receberam IP estático e foram validados com `ip -br addr`, 
 - ping entre VMs
 - resolução DNS
 
-![Fase 03 — IP estático e conectividade](imagens/fase03-conectividade.png)
+![Fase 03 — IP estático e conectividade](imagens2/pingzabbix.png)
+![Fase 03 — IP estático e conectividade](imagens2/pinggrafana.png)
+![Fase 03 — IP estático e conectividade](imagens2/pingsrvlinux.png)
+
 
 ---
 
