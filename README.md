@@ -342,7 +342,7 @@ O dashboard reúne disponibilidade dos hosts, CPU, memória, disco, rede, HTTP, 
 - Métricas com unidades
 - Período de tempo coerente
 
-![Fase 13 — Dashboard NOC](imagens/fase13-dashboard.png)
+![Fase 13 — Dashboard NOC](imagens2/painel.png)
 
 ---
 
