@@ -282,7 +282,7 @@ O Grafana foi instalado no `GRAFANA01` e o acesso ficou restrito à rede do labo
 - porta 3000
 - login funcional
 
-![Fase 10 — Grafana](imagens/fase10-grafana.png)
+![Fase 10 — Grafana](imagens2/grafanaporta.png)
 
 ---
 
