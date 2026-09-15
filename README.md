@@ -7,7 +7,7 @@
 
 | Campo | Exemplo |
 |---|---|
-| Aluno(a) / Grupo | Maria Eduarda Silva |
+| Aluno(a) / Grupo | Maria Eduarda Silva Gomes |
 | Turma | Defesa Cibernética — 2026 |
 | Professor | Frank Philson |
 | Data | 14/09/2026 |
