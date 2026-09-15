@@ -322,7 +322,7 @@ O plugin Zabbix foi habilitado e o data source `Zabbix-NOC` retornou `Save & tes
 - URL da API
 - Save & test OK
 
-![Fase 12 — Integração Grafana + Zabbix](imagens/fase12-integracao.png)
+![Fase 12 — Integração Grafana + Zabbix](imagens2/plugin.png)
 
 ---
 
