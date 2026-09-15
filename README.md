@@ -232,7 +232,7 @@ O `SRV-LINUX01` foi cadastrado como host e o Agent 2 passou a enviar métricas p
 - Agent 2 ativo
 - Latest data
 
-![Fase 08 — Hosts e Zabbix Agent 2](imagens/fase08-agent2.png)
+![Fase 08 — Hosts e Zabbix Agent 2](imagens2/agentezabbix.png)
 
 ---
 
