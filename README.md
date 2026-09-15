@@ -302,7 +302,7 @@ Foi criada a identidade `grafana_ro`, com permissão somente de leitura e token 
 - Permissão Read
 - Token mascarado
 
-![Fase 11 — API Zabbix](imagens/fase11-api-zabbix.png)
+![Fase 11 — API Zabbix](imagens2/token.png)
 
 ---
 
