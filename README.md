@@ -364,7 +364,7 @@ As regras de firewall e os privilégios foram revisados, evitando exposição de
 - Regras de acesso
 - Sem segredos no repositório
 
-![Fase 14 — Segurança](imagens/fase14-seguranca.png)
+![Fase 14 — Segurança](imagens2/segurança.png)
 
 ---
 
