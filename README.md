@@ -388,7 +388,8 @@ Foi simulado Apache parado. O host permaneceu acessível por ICMP, mas o HTTP fa
 - Correção
 - Validação
 
-![Fase 15 — Simulação de incidentes](imagens/fase15-incidentes.png)
+![Fase 15 — Simulação de incidentes](imagens2/parado.png)
+![Fase 15 — Simulação de incidentes](imagens2/certo.png)
 
 ---
 
