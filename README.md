@@ -139,7 +139,9 @@ Os hostnames foram padronizados, os pacotes foram atualizados e o fuso horário 
 - timedatectl
 - apt update/upgrade
 
-![Fase 04 — Preparação Linux](imagens/fase04-preparacao-linux.png)
+![Fase 04 — Preparação Linux](imagens/preparaçãozabbix.png)
+![Fase 04 — Preparação Linux](imagens/preparaçãografana.png)
+![Fase 04 — Preparação Linux](imagens/preparaçãosrv.png)
 
 ---
 
