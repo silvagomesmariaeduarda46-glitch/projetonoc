@@ -190,8 +190,8 @@ Foi registrado o baseline da rede e capturados ICMP, ARP, DNS, TCP e TLS. O thre
 ![Fase 06 — Diagnóstico manual e Wireshark](imagens2/arpp.png)
 ![Fase 06 — Diagnóstico manual e Wireshark](imagens2/icmp1.png)
 ![Fase 06 — Diagnóstico manual e Wireshark](imagens2/dns.png)
-![Fase 06 — Diagnóstico manual e Wireshark](imagens2/tcp.png)
-![Fase 06 — Diagnóstico manual e Wireshark](imagens2/tls.png)
+![Fase 06 — Diagnóstico manual e Wireshark](imagens2/tcpp.png)
+![Fase 06 — Diagnóstico manual e Wireshark](imagens2/tlss.png)
 
 ---
 
