@@ -69,7 +69,7 @@ Foi escolhida a rede privada `10.20.30.0/24`, evitando sobreposição com outras
 - Tabela de IPs e hostnames
 - Justificativa da faixa escolhida
 
-![Fase 01 — Planejamento e endereçamento](imagens2/endereçamentorede.jpg)
+![Fase 01 — Planejamento e endereçamento](imagens2/Gemini_Generated_Image_8vjx9f8vjx9f8vjx.jpeg)
 
 ---
 
